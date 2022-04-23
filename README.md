@@ -1,6 +1,8 @@
 # code-refactor
 A Refactor of the Horiseon website HTML
 
+https://hoverbad.github.io/code-refactor/
+
 ![Horiseon Webpage Screenshot](Horiseon.jpg?raw=true "Horiseon Screenshot")
 
 The client requested that their website codebase be refactored to follow accessability standards so that it would be optimized for search engines. 
